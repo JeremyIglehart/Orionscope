@@ -28,3 +28,4 @@ standard-minifier-js
 orionjs:core
 fortawesome:fontawesome
 orionjs:bootstrap
+orionjs:summernote
