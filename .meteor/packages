@@ -30,3 +30,6 @@ fortawesome:fontawesome
 orionjs:bootstrap
 orionjs:summernote
 orionjs:relationships
+orionjs:image-attribute
+orionjs:filesystem
+orionjs:s3
